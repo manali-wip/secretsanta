@@ -1,6 +1,6 @@
 # Secret Santa
 
-Check it live on [manali-wip.github.io/secretsanta/](http://manali-wip.github.io/secretsanta/).
+Check it live on [sedulous-wip.github.io/secretsanta/](http://sedulous-wip.github.io/secretsanta/).
 
 ## License (MIT)
 
